@@ -1,0 +1,9 @@
+ion-card {
+    --background: #5a7a5c;
+    --color: rgb(250, 0, 250);
+}
+
+.iontitle {
+    font-size: 3rem;
+    --color: rgb(68, 0, 255);
+}
